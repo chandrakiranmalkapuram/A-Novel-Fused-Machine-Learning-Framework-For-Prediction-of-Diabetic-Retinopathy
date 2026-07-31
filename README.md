@@ -104,4 +104,4 @@ You will see a menu:
 - The first run takes 1-2 hours (downloading + training)
 - After the first run, results are saved so re-running is instant
 - Keep VS Code open while it runs — do not close the terminal
-- Your computer needs to be plugged in (not on battery) for best performance
+- Your computer needs to be plugged in (not on battery) for best performance 
